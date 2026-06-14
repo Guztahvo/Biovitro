@@ -1,6 +1,6 @@
-# 🌲 Rooted: Phygital Focus & Sustainability
+# 🌲 Biovitro App: Phygital Focus & Sustainability
 
-**Rooted** é um ecossistema de produtividade inspirado na técnica Pomodoro e no conceito "Phygital" (Físico + Digital). O objetivo é ajudar usuários a vencer a procrastinação enquanto promovem o reflorestamento real e virtual.
+**Biovitro App** é um ecossistema de produtividade inspirado na técnica Pomodoro e no conceito "Phygital" (Físico + Digital). O objetivo é ajudar usuários a vencer a procrastinação enquanto promovem o reflorestamento real e virtual.
 
 ---
 
