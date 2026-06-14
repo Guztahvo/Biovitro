@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 O Diferencial: Experiência Phygital
-Diferente de outros apps de foco, o **Rooted** integra um **Kit de Cultivo Físico**.
+Diferente de outros apps de foco, o **Biovitro App** integra um **Kit de Cultivo Físico**.
 - **QR Code Único:** Cada kit físico contém um token criptográfico em um QR Code.
 - **Validação de Uso Único:** Ao escanear, o app valida o token no backend, desbloqueando árvores lendárias ou convertendo em moedas virtuais caso o usuário já possua o item.
 - **Conexão Real:** Incentiva o usuário a plantar na vida real o que cultiva no digital.
